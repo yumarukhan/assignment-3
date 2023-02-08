@@ -1,0 +1,9 @@
+insert into powerbank(model,volume,colour,price)
+VALUES ('MagSafe',10000,'White',57990),
+       ('MagSafe',11000,'Purple',57990),
+       ('MagSafe',12000,'Black',57990),
+       ('MagSafe',15000,'Gray',57990),
+       ('Xiaomi',10000,'Black',15990),
+       ('Xiaomi',15000,'Gray',19990),
+       ('Xiaomi',18000,'Blue',24990),
+       ('Xiaomi',20000,'White',29990);
